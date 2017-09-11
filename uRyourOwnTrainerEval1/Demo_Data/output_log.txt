@@ -1,0 +1,28 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     1792 MB
+    Driver:   10.18.10.3316
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\studen\Desktop\uRyourOwnTrainer\Demo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\studen\Desktop\uRyourOwnTrainer\Demo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\studen\Desktop\uRyourOwnTrainer\Demo_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\studen\Desktop\uRyourOwnTrainer\Demo_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\studen\Desktop\uRyourOwnTrainer\Demo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\studen\Desktop\uRyourOwnTrainer\Demo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\studen\Desktop\uRyourOwnTrainer\Demo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\studen\Desktop\uRyourOwnTrainer\Demo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\studen\Desktop\uRyourOwnTrainer\Demo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\studen\Desktop\uRyourOwnTrainer\Demo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\studen\Desktop\uRyourOwnTrainer\Demo_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\Users\studen\Desktop\uRyourOwnTrainer\Demo_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+- Completed reload, in  0.311 seconds
+Platform assembly: C:\Users\studen\Desktop\uRyourOwnTrainer\Demo_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\studen\Desktop\uRyourOwnTrainer\Demo_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
